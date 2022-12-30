@@ -1,5 +1,7 @@
-### Call me Juls <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> ### Call me Juls
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/juliasabatel/)](https://www.linkedin.com/in/juliasabatel/)
+[![Gmail Badge](https://img.shields.io/badge/-jusabatel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jusabatel@gmail.com)](mailto:jusabatel@gmail.com)
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
