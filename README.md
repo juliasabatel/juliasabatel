@@ -21,7 +21,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliasabatel&show_icons=true&theme=radical)
 
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juliasabatel&theme=vue
+
+![image]({https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juliasabatel&theme=vue})
 
 <!--
 **juliasabatel/juliasabatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
