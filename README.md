@@ -18,7 +18,7 @@
 
 <img width="852" alt="Captura de Pantalla 2022-12-14 a las 17 44 30" src="https://user-images.githubusercontent.com/29893993/207656053-819a4372-0e18-449f-bbbf-3e93ac5f5f54.png">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=juliasabatel&theme=gruvbox_icons=true" width="400px" height="220px"/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=juliasabatel&theme=tokyonight_icons=true" width="400px" height="220px"/>
 </p>
 
 <!--
