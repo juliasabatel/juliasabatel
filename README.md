@@ -3,7 +3,7 @@
 <img width="852" alt="Captura de Pantalla 2022-12-14 a las 17 44 30" src="https://user-images.githubusercontent.com/29893993/207656053-819a4372-0e18-449f-bbbf-3e93ac5f5f54.png">
 
 
-![image]({https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white})
+![image]({https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white})
 
 
 
