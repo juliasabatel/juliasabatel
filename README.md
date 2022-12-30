@@ -1,10 +1,14 @@
 ### Call me Juls <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> 
 
-<p align="centre">
+
+  
+  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/juliasabatel/)](https://www.linkedin.com/in/juliasabatel/)
 [![Gmail Badge](https://img.shields.io/badge/-jusabatel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jusabatel@gmail.com)](mailto:jusabatel@gmail.com)
-</p>
-<p align="centre">
+  
+
+
+<p align="left">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
