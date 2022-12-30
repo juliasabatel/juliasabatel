@@ -1,7 +1,5 @@
 ### Call me Juls ⚡️
 
-<img width="852" alt="Captura de Pantalla 2022-12-14 a las 17 44 30" src="https://user-images.githubusercontent.com/29893993/207656053-819a4372-0e18-449f-bbbf-3e93ac5f5f54.png">
-
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -11,6 +9,11 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
+<img width="852" alt="Captura de Pantalla 2022-12-14 a las 17 44 30" src="https://user-images.githubusercontent.com/29893993/207656053-819a4372-0e18-449f-bbbf-3e93ac5f5f54.png">
+
+
+<img align="left" src="https://user-images.githubusercontent.com/114177420/203751714-dd829997-819c-4944-b008-67f5115144ec.jpg" width="300">
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
 <!--
 **juliasabatel/juliasabatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
